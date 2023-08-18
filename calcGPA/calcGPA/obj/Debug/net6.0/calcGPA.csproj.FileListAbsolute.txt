@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\bin\Debug\net6.0\calcGPA.exe
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\bin\Debug\net6.0\calcGPA.deps.json
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\bin\Debug\net6.0\calcGPA.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\bin\Debug\net6.0\calcGPA.dll
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\bin\Debug\net6.0\calcGPA.pdb
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.dll
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\refint\calcGPA.dll
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.pdb
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\calcGPA.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\calcGPA\calcGPA\calcGPA\obj\Debug\net6.0\ref\calcGPA.dll
